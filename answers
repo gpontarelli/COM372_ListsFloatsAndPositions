@@ -1,0 +1,53 @@
+LIST ANSWERS!!!!
+When you change the settings to circle inside the circle changes to hollow when changes to circle outside the circle changes to solid black circle
+when changing the settings to square the settings change to solid squares and when changing the settings to none the squares disappear.
+When adding the border setting the border increased and and a red solid line appeared. When the padding 10px was added the actual box bordering it inlarged.
+Then, when you add the 40px it expands the box larger and to the left. Then when you remove the padding to 0px the border gets
+smaller again and moves all the way to the left.
+
+When adding the think, black dashed border the dashed border is around each of the items in the list. Adding the 10px makes the
+boxes with each list item that is surrounded by the black dashed border more wide. Each of the new boxes in the list gets wider.
+When you add the width 200px the box the list becomes a small box-list all the way to the left (if that makes sense).
+When you add the margin to 20px each list item in the dotted boxes become separated; they are no longer attached. When you set
+the display property to inline the list items are now next to each other, still in their dotted boxes, within the red box.
+When you add the block display property it goes back to what it looked like before the inline display property was added.
+When you add the display property to inline-block the lists are once again separated and spaced out in their respective dotted
+lined boxes. "List item 1" "second list item " "list item #3" and "4" are all next to each other and "fifth list item" is
+directly under "list item 1".
+
+
+POSITION ANSWERS!!!!
+When you set the position to relative the words "This is some text after the test div. Notice how this moves, depending on how
+we set the test div" go below the pink box.
+When you add the left property at a value of 100px the the pink box shifts to the right.
+When you remove the left property and add a right property at a value of 100px the box shifts to the left so you can't see
+a little bit of the pink box--it goes beyond the 0 on the ruler.
+When you remove the right property and add a top property at a value of 100px, the box shifts down, so there is a gap/space
+between the ruler and the box.
+When you keep the top property and add a left property value of 100px the box shifts to the right and there is still a space
+between the ruler and the box.
+When you remove the top and left properties the box goes back to its original form.
+When you set the property value to absolute the half of the phrase "This is some text after the test div. Notice how this movies, depending on
+how we set the test div" goes behind the pink box and is straight below the ruler and "next to" (minus half of the words) the pink box.
+When you set the top property to 0px the pink box shifts all the way above the ruler into the directions and the phrase "This is
+some text... etc." is now fully showing below the ruler.
+When you keep the top property at 0px and add a right property at 0px, the pink box shifts from the right side of the
+page to the left side of the page.
+When you change the value of the right property to 100px the pink box shifts a little to the left side of the page.
+When you remove the top property the box shifts down directly below the ruler and the phrase "This is some text...etc." shifts to
+the left. And is to the left of the pink box.
+When you add a bottom property at a value of 0px the pink box shifts up a little bit so it is almost on the ruler (so you can barely
+see the numbers on the ruler)
+
+
+FLOATS ANSWERS!!!
+When you float both divs right the two boxes become aligned with each other to more of the right side.
+When you float both divs left they shift to the left and are still aligned with each other.
+When you float testDiv1 to the right and testDiv2 to the left testDiv1 goes all the way to the right while testDiv2 goes all
+the way to the left and there is a space in between them.
+When you set both divs to the left and the testDiv1 to a size of 60% that box becomes longer than testDiv2 and it is now
+above testDiv2.
+The largest size setting in % we can set both divs is 20%.
+When you resize your browser window, at least for mine, it stayed the same.
+When you copy and past the testDiv1 from the html source code page it creates a 3rd box (testDiv3)
+Around 28% makes them equal size.
